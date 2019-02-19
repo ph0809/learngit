@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AutoRun</key>
+	<false/>
+	<key>COM</key>
+	<dict>
+		<key>COM1</key>
+		<dict>
+			<key>FIXTURE_COM</key>
+			<dict>
+				<key>BaudRate</key>
+				<string>115200</string>
+				<key>Name</key>
+				<string>NA</string>
+			</dict>
+			<key>UART_COM</key>
+			<dict>
+				<key>BaudRate</key>
+				<string>115200</string>
+				<key>Name</key>
+				<string>NA</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>DebugLog</key>
+	<true/>
+	<key>DoVirtualTest</key>
+	<false/>
+	<key>FailStopFlag</key>
+	<false/>
+	<key>InfoShowFlag</key>
+	<false/>
+	<key>LogPath</key>
+	<string>/vault/</string>
+	<key>LynOrTaylor</key>
+	<true/>
+	<key>ProductName</key>
+	<string>J71b</string>
+	<key>SNLength</key>
+	<integer>17</integer>
+	<key>StationName</key>
+	<string>CG-BUTTON</string>
+	<key>Version</key>
+	<string>V601.103.2001</string>
+	<key>manuelJudge</key>
+	<false/>
+	<key>LoopTestFlag</key>
+	<integer>1</integer>
+</dict>
+</plist>
+
+//979528a22628d88373b3175516205fe6b0b160fa
