@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AutoRun</key>
-	<false/>
+	<true/>
 	<key>COM</key>
 	<dict>
 		<key>COM1</key>
