@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AutoRun</key>
-	<true/>
+	<false/>
 	<key>COM</key>
 	<dict>
 		<key>COM1</key>
@@ -11,7 +11,7 @@
 			<key>FIXTURE_COM</key>
 			<dict>
 				<key>BaudRate</key>
-				<string>115200</string>
+				<string>115200000</string>
 				<key>Name</key>
 				<string>NA</string>
 			</dict>
